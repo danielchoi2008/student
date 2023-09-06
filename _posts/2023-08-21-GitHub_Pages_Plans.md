@@ -2,7 +2,7 @@
 toc: true
 comments: true
 layout: post
-title: Detail Plan
+title: Week 1 Plan
 description: Analyze hacks and plans
 type: plans
 courses: { compsci: {week: 1} }
