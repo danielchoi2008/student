@@ -9,5 +9,5 @@ Hello!
 
 ## Freeform Picture
 
-- Plans, Lists, [Scrum Boards](https://clickup.com/blog/scrum-board/) help you to track key events, show progress and record time.  Effort is a big part of your class grade.  Show plans and time spent!
+- This is my freeform picture. The hospital represents my volunteering work and dream job of Cardiothoracic surgeon. The Golf signifies my love for the sport as I have played it since I was around 6 years old. The snowman and Christmas tree represent my love for the winter season. I love playing video games such as Minecraft and I love In-N-Out.
 - <img src="freeform.jpeg" alt="">
